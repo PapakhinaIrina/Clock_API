@@ -6,4 +6,4 @@
 
 Разработчик:  [Ирина Папахина](https://github.com/PapakhinaIrina) 
 ___
-![gif](clock.gif)
+![gif](time.gif)
